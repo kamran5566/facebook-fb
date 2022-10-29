@@ -1,0 +1,571 @@
+body {
+    background-color: rgb(180, 187, 255);
+}
+
+.main {
+    background-color: rgb(211, 231, 248);
+    padding: 10px 30px;
+    width: 1100;
+    height: 50px;
+}
+
+.input {
+    height: 30px;
+    position: absolute;
+    top: 30px;
+    left: 120px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.facebook {
+    width: 50px;
+    border-radius: 30px 30px 30px 30px;
+}
+
+.home {
+    width: 50px;
+    position: absolute;
+    top: 25px;
+    left: 500px;
+    border-radius: 40px 40px 40px 40px;
+}
+
+.video {
+    width: 40px;
+    position: absolute;
+    top: 25px;
+    left: 630px;
+    border-radius: 30px 30px 30px 30px;
+}
+
+.group {
+    width: 50px;
+    position: absolute;
+    top: 20px;
+    left: 750px;
+    border-radius: 40px 40px 40px 40px;
+}
+
+.gaming {
+    width: 39px;
+    position: absolute;
+    top: 30px;
+    left: 870px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.menu {
+    width: 30px;
+    position: absolute;
+    top: 25px;
+    left: 1100px;
+}
+
+.mass {
+    width: 35px;
+    position: absolute;
+    top: 25px;
+    left: 1160px;
+    border-radius: 30px 30px 30px 30px;
+}
+
+.norti {
+    width: 40px;
+    position: absolute;
+    top: 20px;
+    left: 1220px;
+    border-radius: 40px 40px 40px 40px;
+}
+
+.div {
+    background-color: blue;
+    height: 45px;
+    width: 45px;
+    border-radius: 30px 30px 30px 30px;
+    position: absolute;
+    top: 20px;
+    left: 1290px;
+}
+
+.one {
+    height: 565px;
+    width: 32%;
+    background-color: rgb(200, 200, 253);
+    margin-left: -32px;
+    margin-top: 4px;
+}
+
+.pic {
+    background-color: rgb(240, 240, 255);
+    width: 45px;
+    height: 45px;
+    border-radius: 30px 30px 30px 30px;
+    margin-top: -560px;
+}
+
+.kam {
+    position: absolute;
+    top: 75px;
+    left: 120px;
+}
+
+.friend {
+    width: 40px;
+    border-radius: 30px 30px 30px 30px;
+    margin-top: 10px;
+}
+
+.frien {
+    position: absolute;
+    top: 130px;
+    left: 120px;
+}
+
+.grou {
+    width: 40px;
+    border-radius: 30px 30px 30px 30px;
+    position: absolute;
+    top: 190px;
+    left: 38px;
+}
+
+.gro {
+    position: absolute;
+    top: 180px;
+    left: 120px;
+}
+
+.watc {
+    width: 40px;
+    border-radius: 30px 30px 30px 30px;
+    position: absolute;
+    top: 240px;
+    left: 38px;
+}
+
+.watch {
+    position: absolute;
+    top: 230px;
+    left: 120px;
+}
+
+.time {
+    border-radius: 30px 30px 30px 30px;
+    position: absolute;
+    top: 290px;
+    left: 38px;
+}
+
+.timer {
+    position: absolute;
+    top: 282px;
+    left: 120px;
+
+}
+
+.save {
+    height: 40px;
+    width: 40px;
+    border-radius: 40px 40px 40px 40px;
+    position: absolute;
+    top: 340px;
+    left: 38px;
+}
+
+.saved {
+    position: absolute;
+    top: 330px;
+    left: 120px;
+}
+
+.page {
+    width: 38px;
+    position: absolute;
+    top: 400px;
+    left: 37px;
+}
+
+.pages {
+    position: absolute;
+    top: 388px;
+    left: 120px;
+}
+
+.reel {
+    width: 40px;
+    border-radius: 30px 30px 30px 30px;
+    position: absolute;
+    top: 457px;
+    left: 38px;
+}
+
+.reels {
+    position: absolute;
+    top: 445px;
+    left: 120px;
+}
+
+.event {
+    width: 40px;
+    border-radius: 30px 30px 30px 30px;
+    position: absolute;
+    top: 520px;
+    left: 38px;
+}
+
+.most {
+    width: 40px;
+    border-radius: 30px 30px 30px 30px;
+    position: absolute;
+    top: 580px;
+    left: 38px;
+}
+
+.eve {
+    position: absolute;
+    top: 510px;
+    left: 120px;
+}
+
+.mos {
+    position: absolute;
+    top: 570px;
+    left: 120px;
+}
+
+.second {
+    width: 510px;
+    height: 280px;
+    background-color: rgb(189, 189, 255);
+    position: absolute;
+    top: 80px;
+    left:420px ; 
+    border-radius: 15px 15px 15px 15px;
+}
+.third{
+    height:180px ;
+    width: 110px;
+    background-color: rgb(160,160, 160);
+    border-radius: 15px 15px 15px 15px;
+    position: absolute;
+    top: 150px;
+    left:430px ; 
+}
+.four{
+    height:180px ;
+    width: 110px;
+    background-color: rgb(160, 160, 160);
+    border-radius: 15px 15px 15px 15px;
+    position: absolute;
+    top: 150px;
+    left:550px ; 
+}
+.five{
+    height:180px ;
+    width: 110px;
+    background-color: rgb(160, 160, 160);
+    border-radius: 15px 15px 15px 15px;
+    position: absolute;
+    top: 150px;
+    left:670px ; 
+}
+.six{
+    height:180px ;
+    width: 110px;
+    background-color: rgb(160, 160, 160);
+    border-radius: 15px 15px 15px 15px;
+    position: absolute;
+    top: 150px;
+    left:790px ; 
+}
+.seven{
+    height:150px ;
+    width: 510px;
+    background-color: rgb(189, 189, 255);
+    border-radius: 15px 15px 15px 15px;
+    position: absolute;
+    top: 370px;
+    left:425px ; 
+}
+.eight{
+    height:50px ;
+    width: 50px;
+    background-color: rgb(6, 6, 8);
+    border-radius: 25px 25px 25px 25px;
+    position: absolute;
+    top: 380px;
+    left:435px ;  
+
+}
+.nine{
+    height:30px ;
+    width: 350px;
+    border-radius: 15px 15px 15px 15px;
+    position: absolute;
+    top: 388px;
+    left:495px ; 
+}
+.ten{
+    width: 40px;
+    border-radius: 20px 20px 20px 20px;
+    position: absolute;
+    top: 450px;
+    left:437px ; 
+}
+.eleven{
+    position: absolute;
+    top: 440px;
+    left:485px ;
+}
+.tw{
+    width: 40px;
+    border-radius: 25px 25px 25px 25px;
+    position: absolute;
+    top: 450px;
+    left:610px ; 
+}
+.elr{
+
+    position: absolute;
+    top: 440px;
+    left:660px ; 
+}
+.fle{
+    width: 50px;
+    position: absolute;
+    top: 440px;
+    left:799px ;
+    border-radius: 25px 25px 25px 25px;
+}
+.flee{
+    position: absolute;
+    top: 440px;
+    left:860px ;
+}
+.stor{
+    position: absolute;
+    top: 100px;
+    left:440px ;
+}
+.rel{
+    position: absolute;
+    top: 100px;
+    left:625px ;   
+}
+
+.ROOM{
+
+
+    position: absolute;
+    top: 100px;
+    left:800px 
+}
+.jk{
+
+    height:110px ;
+    width:500px ;
+    background-color: rgb(188, 194, 253);
+    position: absolute;
+    top: 528px;
+    left:425px ;
+    border-radius: 20px 20px 20px 20px;
+}
+.jkk{
+    height:50px ;
+    width:50px ;
+    background-color: rgb(54, 73, 247);
+    position: absolute;
+    top: 535px;
+    left:430px ;
+    border-radius: 20px 20px 20px 20px;
+}
+.kkk{
+    position: absolute;
+    top: 530px;
+    left:490px ;
+    color: rgb(23, 23, 31);
+}
+.kkkk{
+    position: absolute;
+    top: 555px;
+    left:490px ;
+    color: rgb(23, 23, 31);
+}
+.twenty{
+    width: 25px ;
+    position: absolute;
+    top: 575px;
+    left:515px ;
+    border-radius: 10px 10px 10px 10px;
+}
+.nm{
+    position: absolute;
+    top: 520px;
+    left:880px ;
+}
+.nmm{
+    position: absolute;
+    top: 90px;
+    left:1030px ;
+}
+.opp{
+    width: 120px;
+    position: absolute;
+    top: 150px;
+    left:970px ;
+}
+.mmm{
+    position: absolute;
+    top: 150px;
+    left:1100px ;
+}
+.oppp{
+    width: 120px;
+    position: absolute;
+    top: 300px;
+    left:980px ;
+}
+.start{
+    position: absolute;
+    top: 300px;
+    left:1130px ;
+}
+.startt{
+    position: absolute;
+    top: 420px;
+    left:980px;
+}
+.see{
+    position: absolute;
+    top: 420px;
+    left:1270px;
+}
+.tip{
+    width: 40px;
+    border-radius: 10px 10px 10px 10px;
+    position: absolute;
+    top: 480px;
+    left:980px;
+}
+.seee{
+    position: absolute;
+    top: 470px;
+    left:1030px;
+}
+.top{
+    position: absolute;
+    top: 470px;
+    left:1300px;
+}
+.tiip{
+    width: 20px;
+    border-radius: 10px 10px 10px 10px;
+    position: absolute;
+    top: 510px;
+    left:1030px;
+}
+.tiiip{
+    width: 20px;
+    border-radius: 10px 10px 10px 10px;
+    position: absolute;
+    top: 510px;
+    left:1046px;
+}
+.toop{
+    position: absolute;
+    top: 490px;
+    left:1069px;}
+/* 
+.bor{
+    background-color: blue;
+    width: 110px;
+    height: 40px;
+    position: absolute;
+    top: 550px;
+    left:1069px;
+    border-radius: 10px 10px 10px 10px; */
+
+.boo{
+    position: absolute;
+    top: 550px;
+    left:1069px;
+}
+.yt{
+    background-color: blue;
+    
+    width: 110px;
+    height: 40px;
+    position: absolute;
+    top: 560px;
+    left:1050px;
+    border-radius: 10px 10px 10px 10px;   
+}
+.booop{
+    position: absolute;
+    top: 550px;
+    left:1070px;
+    color: white;
+}
+.dog{
+    background-color: rgb(255, 255, 255);
+    
+    width: 110px;
+    height: 40px;
+    position: absolute;
+    top: 560px;
+    left:1180px;
+    border-radius: 10px 10px 10px 10px; 
+}
+.cato{
+    position: absolute;
+    top: 550px;
+    left:1210px;
+    color: rgb(0, 0, 0);
+}
+.cv{
+    background-color: yellow;
+    border-radius: 45px 45px 45px 45px;  
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 165px;
+    left:440px;
+    
+}
+.cvv{
+    background-color: yellow;
+    border-radius: 45px 45px 45px 45px; 
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 165px;
+    left:560px;
+    /* border-radius: 10px 10px 10px 10px;  */
+}
+.ccvv{
+    background-color: yellow;
+    border-radius: 45px 45px 45px 45px; 
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 165px;
+    left:680px;
+}
+.ccc{
+    background-color: yellow;
+    border-radius: 45px 45px 45px 45px; 
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 165px;
+    left:800px;
+}
+.on{
+    background-color: blue;
+    border-radius: 10px 10px 10px 10px; 
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    top: 193px;
+    left:470px;
+}
